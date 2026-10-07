@@ -1,0 +1,8 @@
+{
+  "name": "Shubh Bandhan Bharat",
+  "description": "सच्चे और भरोसेमंद रिश्ते - पारंपरिक और प्रामाणिक पारिवारिक वैवाहिक मंच",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
